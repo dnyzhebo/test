@@ -1,1 +1,3 @@
-Hello world
+<body>
+Hello world from training2 brach
+</body>
